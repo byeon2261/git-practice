@@ -55,3 +55,6 @@ reset에는 옵션에는 hard, soft, 복합이 있다.
 
 git 전체 내용을 삭제할 수 있다.
 $ rm -rf .git
+
+git을 연결할 수 있다.
+$ git remote add origin [연결시킬 주소]
